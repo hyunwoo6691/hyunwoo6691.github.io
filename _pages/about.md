@@ -27,11 +27,11 @@ Hello! I am a postdoctoral fellow at Johns Hopkins University, where I work with
 
 I am actively involved in the [ARPA-H](https://engineering.jhu.edu/news/hopkins-team-awarded-up-to-20-9-million-in-arpa-h-funding-to-further-tumor-removal-research/) and [SURPASS](https://surpass.jhu.edu/awards/) projects, bridging ultrasound, photoacoustics, and medical robotics to enable precise, functional, and non-contact clinical intervention.
 
-## Education
+<!-- ## Education
 
 - **2019 – 2024** &nbsp; Ph.D. in Computer Science, Johns Hopkins University, USA
 - **2016 – 2018** &nbsp; M.Sc. in Electronic Engineering, Sogang University, South Korea
-- **2010 – 2016** &nbsp; B.Sc. in Electronic Engineering, Sogang University, South Korea
+- **2010 – 2016** &nbsp; B.Sc. in Electronic Engineering, Sogang University, South Korea -->
 
 ## Research Interests
 
