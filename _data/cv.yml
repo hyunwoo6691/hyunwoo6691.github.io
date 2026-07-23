@@ -56,8 +56,10 @@ cv:
 
     Awards & Honors:
       - title: Robertson Translational Research Grant
-        year: 2024
-        summary: Awarded at ARVO 2024 for work on photoacoustic retinal prosthesis.
+        date: 2024
+        awarder: ARVO 2024
+        summary: Awarded for work on photoacoustic retinal prosthesis.
       - title: "Siemens Best Paper Award: Runner-up"
-        year: 2023
-        summary: 14th International Conference on Information Processing in Computer-Assisted Interventions (IPCAI 2023).
+        date: 2023
+        awarder: IPCAI 2023
+        summary: 14th International Conference on Information Processing in Computer-Assisted Interventions.
