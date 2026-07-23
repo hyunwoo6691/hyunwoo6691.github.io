@@ -105,3 +105,32 @@ cv:
         awarder: Department of Electronic Engineering, Sogang University, Republic of Korea
         summary: Awarded for the grand prize in the Undergraduate Senior Capstone Design Project Competition.
       
+    Invited Talks:
+      - label: Dec 2025
+        details: '"Photoacoustic retinal stimulation for visual prosthesis," Korean-American Biomedical Engineering Society (KBMES) Webinar'
+      - label: Oct 2025
+        details: '"Photoacoustic retinal stimulation for visual prosthesis," Biomedical Photonics Society, Georgia Institute of Technology'
+      - label: May 2025
+        details: '"Development of biomedical application using non-contact ultrasound," Kwangwoon University, Seoul, Republic of Korea (host: Dr. Yaesop Lee)'
+      - label: Jan 2025
+        details: '"Towards successful translation of non-contact ultrasound in clinical interventions," DGIST, Daegu, Republic of Korea (host: Dr. Jinho Chang)'
+      - label: Dec 2024
+        details: '"Towards precise, functional, and non-contact clinical intervention via ultrasound," Dankook University, Yongin, Republic of Korea (host: Dr. Heechul Yoon)'
+      - label: Dec 2024
+        details: '"Non-contact ultrasound-based clinical intervention in the future," Sogang University, Seoul, Republic of Korea (host: Dr. Sua Bae)'
+
+    Leadership:
+      - label: 2022–2023
+        details: 'Elected Chairman, Korean Graduate Student Association (KGSA), Johns Hopkins University'
+      - label: 2021–2025
+        details: 'Team Lead, Tennis Club, Johns Hopkins University'
+      - label: 2020–2024
+        details: 'IEEE Student Member'
+      - label: 2011–2013
+        details: 'Military Service, Military Police of the Republic of Korea Army (Capital Defense Command, Seoul) — Best Teaching Assistant Award, Annual Military Police Motorcycle Training Program (2012)'
+      - label: 2011
+        details: 'Student Accounting Secretary, Dept. of Electronic Engineering, Sogang University, Seoul'
+      - label: Nov 2010
+        details: 'Korean–Chinese Interpreter, 2010 G20 Seoul Summit'
+      - label: May 2010
+        details: 'Korean–Chinese Interpreter, Sogang University 50th Anniversary Ceremony'
