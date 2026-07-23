@@ -6,7 +6,7 @@ description: Ongoing and completed research projects.
 nav: true
 nav_order: 2
 display_categories: [ongoing, completed]
-horizontal: false
+horizontal: true
 ---
 
 <!-- pages/projects.md -->
