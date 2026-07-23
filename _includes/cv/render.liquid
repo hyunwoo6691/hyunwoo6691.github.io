@@ -62,6 +62,18 @@
                   <td class="p-1 pl-2 font-weight-light">{{ cv.phone }}</td>
                 </tr>
               {% endif %}
+              {% if cv.language %}
+                <tr>
+                  <td class="p-1 pr-2 font-weight-bold"><b>Languages</b></td>
+                  <td class="p-1 pl-2 font-weight-light">{{ cv.language }}</td>
+                </tr>
+              {% endif %}
+              {% if cv.location %}
+                <tr>
+                  <td class="p-1 pr-2 font-weight-bold"><b>Location</b></td>
+                  <td class="p-1 pl-2 font-weight-light">{{ cv.location }}</td>
+                </tr>
+              {% endif %}
               {% if cv.address %}
                 <tr>
                   <td class="p-1 pr-2 font-weight-bold"><b>Location</b></td>
