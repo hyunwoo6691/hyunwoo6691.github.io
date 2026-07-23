@@ -23,7 +23,7 @@ latest_posts:
   limit: 3
 ---
 
-Hello! I am a postdoctoral fellow at Johns Hopkins University, where I work with Drs. [Emad Boctor](https://engineering.jhu.edu/faculty/emad-boctor/), [Jeeun Kang](https://www.kanglaboratory.com/team), and [Russell H. Taylor](https://www.cs.jhu.edu/~rht/). My research focuses on developing non-contact ultrasound imaging systems for surgical guidance, and photoacoustic retinal prosthesis technology.
+Welcome! I am a ultrasound imaging scientist with deep expertise in ultrasound physics, imaging, and system development. I am currently a postdoctoral fellow at Johns Hopkins University, where I work with Drs. [Emad Boctor](https://engineering.jhu.edu/faculty/emad-boctor/), [Jeeun Kang](https://www.kanglaboratory.com/team), and [Russell H. Taylor](https://www.cs.jhu.edu/~rht/). My research focuses on developing non-contact ultrasound imaging systems for surgical guidance, and photoacoustic retinal prosthesis technology.
 
 I am actively involved in the [ARPA-H](https://engineering.jhu.edu/news/hopkins-team-awarded-up-to-20-9-million-in-arpa-h-funding-to-further-tumor-removal-research/) and [SURPASS](https://surpass.jhu.edu/awards/) projects, bridging ultrasound, photoacoustics, and medical robotics to enable precise, functional, and non-contact clinical intervention.
 
@@ -35,4 +35,4 @@ I am actively involved in the [ARPA-H](https://engineering.jhu.edu/news/hopkins-
 
 ## Research Interests
 
-Non-contact ultrasound imaging &middot; Photoacoustic imaging &middot; Surgical guidance &middot; Retinal prosthesis &middot; Medical robotics &middot; Advanced beamforming &middot; Real-time ultrasound system development
+Non-contact ultrasound imaging &middot; Photoacoustic imaging &middot; Model-based image advancement &middot; US/PA-based neurostimulation &middot; Medical robotics, Physical AI &middot; Machine-learning & AI driven optimization &middot; Real-time ultrasound system development
