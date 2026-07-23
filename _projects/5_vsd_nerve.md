@@ -2,7 +2,7 @@
 layout: page
 title: Photoacoustic Voltage-Sensitive-Dye Nerve Imaging
 description: Dual-modal PA/fluorescence imaging to visualize peripheral nerve function
-img: assets/img/5.jpg
+img: assets/img/vsd-nerve_concept.png
 importance: 5
 category: completed
 related_publications: false

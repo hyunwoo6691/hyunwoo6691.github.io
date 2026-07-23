@@ -39,4 +39,4 @@ I am actively involved in the [ARPA-H](https://engineering.jhu.edu/news/hopkins-
 
 ## Research Interests
 
-Non-contact ultrasound imaging &middot; Photoacoustic imaging &middot; Surgical guidance &middot; Retinal prosthesis &middot; Medical robotics &middot; Beamforming and synthetic aperture focusing
+Non-contact ultrasound imaging &middot; Photoacoustic imaging &middot; Surgical guidance &middot; Retinal prosthesis &middot; Medical robotics &middot; Advanced beamforming &middot; Real-time ultrasound system development

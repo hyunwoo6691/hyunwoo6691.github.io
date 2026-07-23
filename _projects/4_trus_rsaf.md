@@ -2,7 +2,7 @@
 layout: page
 title: Synthetic Radial Aperture Focusing (TRUS-rSAF)
 description: A theory-based design framework for 3D transrectal ultrasound imaging
-img: assets/img/4.jpg
+img: assets/img/rSAF_concept.png
 importance: 4
 category: completed
 related_publications: false

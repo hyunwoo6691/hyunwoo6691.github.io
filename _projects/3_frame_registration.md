@@ -2,7 +2,7 @@
 layout: page
 title: da Vinci–TRUS Frame Registration
 description: Photoacoustic-marker-based registration between the da Vinci robot and transrectal ultrasound
-img: assets/img/3.jpg
+img: assets/img/arc-to-line_concept.png
 importance: 3
 category: completed
 related_publications: false

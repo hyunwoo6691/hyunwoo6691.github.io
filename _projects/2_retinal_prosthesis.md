@@ -2,7 +2,7 @@
 layout: page
 title: Photoacoustic Retinal Prosthesis
 description: Non-contact, high-resolution stimulation of retinal ganglion cells for vision restoration
-img: assets/img/2.jpg
+img: assets/img/PARS_concept_figure.png
 importance: 2
 category: ongoing
 related_publications: false
