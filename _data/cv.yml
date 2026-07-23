@@ -77,7 +77,7 @@ cv:
         summary: 14th International Conference on Information Processing in Computer-Assisted Interventions.
 
       - title: "Analog Devices Inc. PhD Fellowship"
-        date: 2022 - 2023
+        date: 2022-2023
         awarder: Analog Devices Inc.
         summary: Awarded for outstanding PhD research contributions.
 
@@ -87,7 +87,7 @@ cv:
         summary: Awarded for the best project at the course "Computer Integrated Surgery II" with the project titled "Functional guidance for prostatectomy - characterization of normal cells, cancer cells and neurons using ultrasound stimulation"
 
       - title: "Scholarship with honors"
-        date: 2016 - 2018
+        date: 2016-2018
         awarder: Sogang University, Department of Electronic Engineering
         summary: Awarded for academic excellence during the M.Sc. program.
       
