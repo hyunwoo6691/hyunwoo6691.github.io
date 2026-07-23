@@ -1,0 +1,63 @@
+cv:
+  name: Hyunwoo Song
+  label: Postdoctoral Fellow
+  email: hsong37@jhu.edu
+  location: Baltimore, MD, USA
+  image: ""
+  summary: >
+    Postdoctoral Fellow at Johns Hopkins University developing non-contact ultrasound
+    imaging systems for surgical guidance and photoacoustic retinal prosthesis technology.
+
+  social_networks:
+    - network: GitHub
+      username: hyunwoo6691
+    - network: LinkedIn
+      username: hyunwoo-song-a386b3145
+
+  sections:
+    Education:
+      - institution: Johns Hopkins University
+        location: Baltimore, MD, USA
+        url: https://www.jhu.edu/
+        area: Computer Science
+        studyType: Ph.D.
+        start_date: 2019
+        end_date: 2024
+
+      - institution: Sogang University
+        location: Seoul, South Korea
+        url: https://www.sogang.ac.kr/
+        area: Electronic Engineering
+        studyType: M.Sc.
+        start_date: 2016
+        end_date: 2018
+
+      - institution: Sogang University
+        location: Seoul, South Korea
+        url: https://www.sogang.ac.kr/
+        area: Electronic Engineering
+        studyType: B.Sc.
+        start_date: 2010
+        end_date: 2016
+
+    Experience:
+      - company: Johns Hopkins University
+        position: Postdoctoral Fellow
+        location: Baltimore, MD, USA
+        start_date: 2024-09
+        end_date: present
+        summary: >
+          Working with Drs. Emad Boctor, Jeeun Kang, and Russell H. Taylor on non-contact
+          ultrasound/photoacoustic imaging for surgical guidance and photoacoustic retinal
+          prosthesis. Actively involved in the ARPA-H and SURPASS projects.
+        highlights:
+          - Non-contact ultrasound imaging for surgical guidance
+          - Photoacoustic retinal prosthesis technology
+
+    Awards & Honors:
+      - title: Robertson Translational Research Grant
+        year: 2024
+        summary: Awarded at ARVO 2024 for work on photoacoustic retinal prosthesis.
+      - title: "Siemens Best Paper Award: Runner-up"
+        year: 2023
+        summary: 14th International Conference on Information Processing in Computer-Assisted Interventions (IPCAI 2023).
