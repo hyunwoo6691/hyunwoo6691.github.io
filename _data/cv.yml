@@ -55,11 +55,53 @@ cv:
           - Photoacoustic retinal prosthesis technology
 
     Awards:
+      - title: Rising Star Award
+        date: 2025
+        awarder: KBMES 2025
+        summary: Awarded for outstanding work on photoacoustic retinal prosthesis.
+
       - title: Robertson Translational Research Grant
         date: 2024
         awarder: ARVO 2024
         summary: Awarded for work on photoacoustic retinal prosthesis.
+      
+      - title: "Best Poster Presentation Award"
+        date: 2023
+        awarder: 25th Annual Anesthesiology and Critical Care Medicine Research Day, Johns Hopkins University School of Medicine
+        summary: Awarded for the best poster presentation for development of vector Doppler imaging of non-contact ultrasound
+      
       - title: "Siemens Best Paper Award: Runner-up"
         date: 2023
         awarder: IPCAI 2023
         summary: 14th International Conference on Information Processing in Computer-Assisted Interventions.
+
+      - title: "Analog Devices Inc. PhD Fellowship"
+        date: 2022 - 2023
+        awarder: Analog Devices Inc.
+        summary: Awarded for outstanding PhD research contributions.
+
+      - title: "Best Project Award"
+        date: 2019
+        awarder: Computer Integrated Surgery II, Johns Hopkins University, Department of Computer Science
+        summary: Awarded for the best project at the course "Computer Integrated Surgery II" with the project titled "Functional guidance for prostatectomy - characterization of normal cells, cancer cells and neurons using ultrasound stimulation"
+
+      - title: "Scholarship with honors"
+        date: 2016 - 2018
+        awarder: Sogang University, Department of Electronic Engineering
+        summary: Awarded for academic excellence during the M.Sc. program.
+      
+      - title: "Third Prize in the Bio-startup Competitive Exhibition (Korea Health Industry Development Institute)"
+        date: 2016
+        awarder: Korea Health Industry Development Institute
+        summary: Awarded for the third prize in the Bio-startup Competitive Exhibition.
+      
+      - title: "Winner of Fusion Technology Competitive Exhibition"
+        date: 2016
+        awarder: Fusion Clinic Center, Center for Leaders in Industry-university Cooperation (LINC), Sogang University
+        summary: Awarded for winning the Fusion Technology Competitive Exhibition.
+
+      - title: "Grand Prize, Undergraduate Senior Capstone Design Project Competition"
+        date: 2015
+        awarder: Department of Electronic Engineering, Sogang University, Republic of Korea
+        summary: Awarded for the grand prize in the Undergraduate Senior Capstone Design Project Competition.
+      
