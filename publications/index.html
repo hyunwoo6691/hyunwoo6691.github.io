@@ -21,7 +21,7 @@
   <span class="na">number</span> <span class="p">=</span> <span class="s">{1}</span><span class="p">,</span>
   <span class="na">pages</span> <span class="p">=</span> <span class="s">{2604123}</span><span class="p">,</span>
   <span class="na">year</span> <span class="p">=</span> <span class="s">{2026}</span><span class="p">,</span>
-<span class="p">}</span></code></pre></figure> </div> </div> </div> </li></ol> <h2 class="bibliography">2025</h2> <ol class="bibliography"> <li> <div class="row"> <div class="col col-sm-2 abbr"> <abbr class="badge rounded w-100">ARVO</abbr> <figure> <picture> <img src="/assets/img/publication_preview/song2025remote.jpg" class="preview z-depth-1 rounded" width="100%" height="auto" alt="song2025remote.jpg" data-zoomable="" loading="eager" onerror="this.onerror=null; document.querySelectorAll('.responsive-img-srcset').forEach(function (n) { n.remove(); });"> </picture> </figure> </div> <div id="song2025remote" class="col-sm-8"> <div class="title">Remote and dynamically configurable photoacoustic stimulation of retinal ganglion cells for high resolution visual function restoration</div> <div class="author"> <em>Hyunwoo Song</em>, Thomas Johnson, Alexandra Patterson, and <span class="more-authors" title="click to view 10 more authors" onclick=" var element=this; element.setAttribute('title', ''); var more_authors_text=element.textContent == '10 more authors' ? 'Jeeun Kang, Jeongwon Shin, Cindy Berlinicke, Chad Weiler, Keshuai Xu, David Shrekenhamer, James B. Spicer, Seth Billings, Donald J. Zack, Emad M. Boctor' : '10 more authors'; var cursorPosition=0; var textAdder=setInterval(function(){ element.innerHTML = more_authors_text.substring(0, cursorPosition + 1); if (++cursorPosition == more_authors_text.length){ clearInterval(textAdder); } }, '10'); ">10 more authors</span> </div> <script>
+<span class="p">}</span></code></pre></figure> </div> </div> </div> </li></ol> <h2 class="bibliography">2025</h2> <ol class="bibliography"> <li> <div class="row"> <div class="col col-sm-2 abbr"> <abbr class="badge rounded w-100">ARVO</abbr> <figure> <picture> <img src="/assets/img/publication_preview/song2025remote.png" class="preview z-depth-1 rounded" width="100%" height="auto" alt="song2025remote.png" data-zoomable="" loading="eager" onerror="this.onerror=null; document.querySelectorAll('.responsive-img-srcset').forEach(function (n) { n.remove(); });"> </picture> </figure> </div> <div id="song2025remote" class="col-sm-8"> <div class="title">Remote and dynamically configurable photoacoustic stimulation of retinal ganglion cells for high resolution visual function restoration</div> <div class="author"> <em>Hyunwoo Song</em>, Thomas Johnson, Alexandra Patterson, and <span class="more-authors" title="click to view 10 more authors" onclick=" var element=this; element.setAttribute('title', ''); var more_authors_text=element.textContent == '10 more authors' ? 'Jeeun Kang, Jeongwon Shin, Cindy Berlinicke, Chad Weiler, Keshuai Xu, David Shrekenhamer, James B. Spicer, Seth Billings, Donald J. Zack, Emad M. Boctor' : '10 more authors'; var cursorPosition=0; var textAdder=setInterval(function(){ element.innerHTML = more_authors_text.substring(0, cursorPosition + 1); if (++cursorPosition == more_authors_text.length){ clearInterval(textAdder); } }, '10'); ">10 more authors</span> </div> <script>
   (function () {
     document
       .querySelectorAll('.publications img[data-zoomable]:not([data-zoom-src])')
@@ -278,12 +278,18 @@
 </script> <div class="periodical"> <em>In IEEE International Ultrasonics Symposium (IUS 2016), Tours, France</em>, Sep 2016 </div> <div class="periodical"> </div> <div class="links"> </div> </div> </div> </li></ol> </div> <script>
   (function () {
     function setZoomSrc() {
-      document
-        .querySelectorAll('.publications img[data-zoomable]:not([data-zoom-src])')
-        .forEach(function (img) {
+      var imgs = document.querySelectorAll('.publications img.preview, .publications img[data-zoomable]');
+      var n = 0;
+      imgs.forEach(function (img) {
+        if (!img.getAttribute('data-zoom-src')) {
           var src = img.getAttribute('src');
-          if (src) img.setAttribute('data-zoom-src', src);
-        });
+          if (src) {
+            img.setAttribute('data-zoom-src', src);
+            n++;
+          }
+        }
+      });
+      console.log('[pub-zoom] data-zoom-src set on ' + n + ' of ' + imgs.length + ' preview image(s)');
     }
     setZoomSrc();
     document.addEventListener('DOMContentLoaded', setZoomSrc);
