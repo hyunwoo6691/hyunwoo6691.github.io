@@ -35,4 +35,4 @@ I am actively involved in the [ARPA-H](https://engineering.jhu.edu/news/hopkins-
 
 ## Research Interests
 
-Non-contact ultrasound imaging &middot; Photoacoustic imaging &middot; Model/Learning-based algorithm development &middot; US/PA-based neurostimulation &middot; Medical robotics Physical AI &middot; Machine-learning & AI driven optimization &middot; Real-time ultrasound system development
+Ultrasound/Photoacoustic imaging and neuromodulation &middot; Model/Learning-based algorithm development &middot; Medical robotics Physical AI &middot; Machine-learning & AI driven optimization &middot; Real-time ultrasound system development
