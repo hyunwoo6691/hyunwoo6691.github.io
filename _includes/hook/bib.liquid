@@ -1,0 +1,24 @@
+{%- comment -%}
+  Per-entry hook rendered inside every publication by al_folio_core's bib.liquid.
+
+  Purpose: make the medium-zoom preview thumbnails zoom at FULL resolution.
+  By default the preview <img> is served through a responsive <picture> with
+  sizes="200px", so the browser loads a small (~480px) webp variant. medium-zoom
+  then scales that small variant up on zoom, which looks pixelated. The <img>'s
+  own src still points to the original full-resolution file, so we copy it into
+  data-zoom-src; medium-zoom then loads the original for the zoomed view, showing
+  each figure crisply at its own native size.
+
+  Runs synchronously during parsing (idempotent via :not([data-zoom-src])), so the
+  attribute is set before medium-zoom initializes on document-ready.
+{%- endcomment -%}
+<script>
+  (function () {
+    document
+      .querySelectorAll('.publications img[data-zoomable]:not([data-zoom-src])')
+      .forEach(function (img) {
+        var src = img.getAttribute('src');
+        if (src) img.setAttribute('data-zoom-src', src);
+      });
+  })();
+</script>
