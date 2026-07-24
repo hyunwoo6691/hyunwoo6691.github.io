@@ -29,12 +29,18 @@ nav_order: 1
 <script>
   (function () {
     function setZoomSrc() {
-      document
-        .querySelectorAll('.publications img[data-zoomable]:not([data-zoom-src])')
-        .forEach(function (img) {
+      var imgs = document.querySelectorAll('.publications img.preview, .publications img[data-zoomable]');
+      var n = 0;
+      imgs.forEach(function (img) {
+        if (!img.getAttribute('data-zoom-src')) {
           var src = img.getAttribute('src');
-          if (src) img.setAttribute('data-zoom-src', src);
-        });
+          if (src) {
+            img.setAttribute('data-zoom-src', src);
+            n++;
+          }
+        }
+      });
+      console.log('[pub-zoom] data-zoom-src set on ' + n + ' of ' + imgs.length + ' preview image(s)');
     }
     setZoomSrc();
     document.addEventListener('DOMContentLoaded', setZoomSrc);
