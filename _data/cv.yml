@@ -152,6 +152,27 @@ cv:
         awarder: 'Sogang University, Seoul, Republic of Korea · Dec 2024'
         summary: 'Host: Dr. Sua Bae'
 
+    Teaching & Mentoring:
+      - title: 'Research Mentor, Computer Integrated Surgery II project teams'
+        date: '2022–2025'
+        awarder: Johns Hopkins University
+        summary: 'Mentored graduate student teams on non-contact ultrasound imaging, deep learning-based TRUS/photoacoustic imaging, and photoacoustic surgical guidance on the da Vinci platform.'
+      - title: 'Head Teaching Assistant, Computer Integrated Surgery I'
+        date: 2020
+        awarder: 'Johns Hopkins University · Instructor: Prof. Russell Taylor'
+      - title: 'Teaching Assistant, Computer Integrated Surgery I'
+        date: '2021–2023'
+        awarder: 'Johns Hopkins University · Instructor: Prof. Russell Taylor'
+      - title: 'Teaching Assistant, Computer Vision'
+        date: '2023–2024'
+        awarder: Johns Hopkins University
+      - title: 'Teaching Assistant, Database'
+        date: 2022
+        awarder: Johns Hopkins University
+      - title: 'Head Teaching Assistant, Advanced Digital Circuit Design'
+        date: 2016
+        awarder: Sogang University
+
     Leadership:
       - title: 'Faculty Relation Director, Korean-American Scientists and Engineers Association (KSEA), Baltimore Chapter'
         date: '2026–2027'
