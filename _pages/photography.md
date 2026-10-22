@@ -7,8 +7,7 @@ nav: true
 nav_order: 7
 ---
 
-Prints and full-resolution files available on request — DM on Instagram.
-More on Instagram → [@sooo__wnuyh](https://www.instagram.com/sooo__wnuyh)
+Prints and full-resolution files available on request — DM on Instagram [@sooo__wnuyh](https://www.instagram.com/sooo__wnuyh)
 
 Photographs, newest first — Baltimore and wherever I travel.
 Shot on a Sony A7C II with a Zeiss 35mm lens.
