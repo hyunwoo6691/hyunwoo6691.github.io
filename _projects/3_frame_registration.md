@@ -8,6 +8,11 @@ category: completed
 related_publications: false
 ---
 
-To achieve effective robot-assisted laparoscopic prostatectomy, integrating transrectal ultrasound (TRUS) — the most widely used prostate imaging modality — is essential, yet manual transducer manipulation during the procedure significantly interferes with surgery. We proposed an image co-registration algorithm based on a **photoacoustic marker (PM)** method, where ultrasound/photoacoustic (US/PA) images are registered to endoscopic camera images, ultimately enabling the TRUS transducer to automatically track the surgical instrument.
+*Ph.D. research · Johns Hopkins University*
 
-[Paper (IJCARS)](https://link.springer.com/article/10.1007/s11548-023-02984-1) &middot; [Paper (IEEE RA-L)](https://ieeexplore.ieee.org/document/9832728)
+Robot-assisted laparoscopic prostatectomy would benefit from live transrectal ultrasound (TRUS) guidance, but the TRUS image and the da Vinci endoscopic view live in different coordinate frames — and the probe's arc-shaped scanning geometry makes registering them nontrivial. I developed an **arc-to-line registration** method anchored by **photoacoustic markers**, and integrated it into a real-time guidance system demonstrated ex vivo on the da Vinci platform, in which the TRUS transducer automatically tracks the surgical instrument.
+
+**Key publications**
+
+- [Arc-to-line registration method for ultrasound and photoacoustic image-guided intraoperative robot-assisted laparoscopic prostatectomy](/publications/#song2023arctoline) — *IJCARS*, 2023 · 🏆 Siemens Best Paper Award: Runner-up, IPCAI 2023
+- [Real-time intraoperative surgical guidance system in the da Vinci surgical robot](/publications/#song2022realtime) — *IEEE Robotics and Automation Letters*, 2022
