@@ -8,6 +8,10 @@ category: completed
 related_publications: false
 ---
 
-Nerve graft repair surgery treats peripheral nerve injuries where transected nerve ends cannot undergo primary tensionless neurorrhaphy. We present an **ex vivo proof-of-concept** of functional intraoperative guidance using voltage-sensitive dye (VSD) imaging, evaluating **photoacoustic (PA)** and **fluorescence (FL)** modalities in which near-infrared VSD contrast arises from transmembrane VSD redistribution upon neuronal depolarization. The study demonstrated high VSD signal sensitivity in functional PA imaging, with unique depth-profiling capability over thick nerve tissue (<2-mm diameter).
+*Ph.D. research · Johns Hopkins University*
 
-[Paper (SPIE Photonics West 2022)](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/11952/1195205/Functional-guidance-of-nerve-graft-surgery-using-dual-modal-photoacoustic/10.1117/12.2608374.full)
+In nerve graft repair, surgeons cannot see whether a nerve segment is functionally viable during the operation. I developed a **dual-modal photoacoustic/fluorescence** imaging approach using **voltage-sensitive dyes (VSDs)**, whose near-infrared signal arises from transmembrane redistribution upon neuronal depolarization. In an ex vivo proof-of-concept study, functional photoacoustic imaging showed high VSD signal sensitivity and added depth profiling through thick nerve tissue (<2 mm diameter) that fluorescence alone cannot provide — a step toward intraoperative functional guidance for nerve surgery.
+
+**Key publications**
+
+- [Functional guidance of nerve graft surgery using dual-modal photoacoustic and fluorescence imaging of voltage-sensitive dye](/publications/#song2022functional) — SPIE Photonics West 2022
