@@ -43,14 +43,41 @@ cv:
         start_date: 2024-09
         end_date: present
         summary: >
-          Working with Drs. Emad Boctor, Jeeun Kang, and Russell H. Taylor on non-contact
+          Postdoctoral Fellow at the Laboratory for Computational Sensing and Robotics (LCSR),
+          working with Drs. Emad Boctor, Jeeun Kang, and Russell H. Taylor on non-contact
           ultrasound/photoacoustic imaging for surgical guidance and photoacoustic retinal
           prosthesis. Actively involved in the ARPA-H and SURPASS projects.
         highlights:
-          - Non-contact ultrasound imaging for surgical guidance
-          - Photoacoustic retinal prosthesis technology
+          - Non-contact ultrasound imaging system for prostate surgery guidance
+          - Photoacoustic retinal stimulation system for vision restoration
+
+      - company: Johns Hopkins University
+        position: Graduate Research Assistant
+        location: Baltimore, MD, USA
+        start_date: 2019-01
+        end_date: 2024-07
+        summary: >
+          Graduate Research Assistant in the Department of Computer Science, working with
+          Dr. Emad M. Boctor.
+        highlights:
+          - Ultrasound and photoacoustic image-based surgical guidance system
+          - Advanced ultrasound beamforming algorithm development for prostate diagnosis
+
+      - company: Sogang University
+        position: Researcher
+        location: Seoul, Republic of Korea
+        start_date: 2018-03
+        end_date: 2018-12
+        summary: >
+          Researcher at the Signal Processing and Systems Laboratory. Designed and developed
+          an efficient system architecture for a massive parallel ultrasound beamforming system.
 
     Awards:
+      - title: Translational Innovation Award
+        date: 2026
+        awarder: 6th Annual Conference of the Korean Life Scientist Association of Maryland (KLAM)
+        summary: Presented at the 6th Annual KLAM Conference, Baltimore, MD, Oct 2026.
+
       - title: Rising Star Award
         date: 2025
         awarder: KBMES 2025
@@ -126,6 +153,10 @@ cv:
         summary: 'Host: Dr. Sua Bae'
 
     Leadership:
+      - title: 'Faculty Relation Director, Korean-American Scientists and Engineers Association (KSEA), Baltimore Chapter'
+        date: '2026–2027'
+      - title: 'IT Director, Korean-American Scientists and Engineers Association (KSEA), Baltimore Chapter'
+        date: '2024–2026'
       - title: 'Elected Chairman, Korean Graduate Student Association (KGSA)'
         date: '2022–2023'
         awarder: Johns Hopkins University
