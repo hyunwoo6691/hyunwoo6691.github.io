@@ -12,6 +12,28 @@ nav_order: 1
 
 {% include bib_search.liquid %}
 
+<!-- Minimal bibliography styling (pairs with the local _layouts/bib.liquid override) -->
+<style>
+  .publications ol.bibliography li {
+    margin-bottom: 1.35rem;
+  }
+  .publications .pub-minimal .periodical {
+    color: var(--global-text-color-light);
+    font-size: 0.92rem;
+  }
+  .publications .pub-minimal .pub-award {
+    font-size: 0.88rem;
+    margin-top: 0.1rem;
+  }
+  .publications .pub-minimal .pub-links {
+    font-size: 0.85rem;
+    margin-top: 0.2rem;
+  }
+  .publications .pub-minimal .pub-links a {
+    margin-right: 0.65rem;
+  }
+</style>
+
 <div class="publications">
 
 {% bibliography %}
