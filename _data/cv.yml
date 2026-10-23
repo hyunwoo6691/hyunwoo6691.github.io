@@ -4,6 +4,13 @@ cv:
   email: hsong37@jhu.edu
   language: Korean (native), English (fluent), Chinese (fluent)
 
+  summary: |
+    I am a postdoctoral fellow at the Laboratory for Computational Sensing and Robotics (LCSR) at Johns Hopkins University, where I work with Dr. Emad Boctor. My research develops non-contact ultrasound and photoacoustic imaging systems that let surgeons see tissue, blood vessels, and nerves beneath the surface — without ever touching the patient — and translates them toward real operating rooms.
+
+    I serve as a principal researcher on an ARPA-H-funded program (up to $20.9M) building an intraoperative imaging platform for complete tumor removal, and as a senior researcher on the SURPASS project, which develops photoacoustic stimulation technology for retinal prostheses. Before my postdoc, I received my Ph.D. in Computer Science from Johns Hopkins University in 2024, following a B.Sc. (2016) and M.Sc. (2018) in Electronic Engineering at Sogang University in Seoul.
+
+    My work sits at the intersection of ultrasound physics, machine learning, and medical robotics. It has been recognized with the Translational Innovation Award from KLAM (2026), the Rising Star Award from KBMES (2025), and the Siemens Best Paper Award (runner-up) at IPCAI 2023, and I serve as a reviewer for venues including IEEE Transactions on Medical Imaging, MICCAI, and ECCV.
+
   social_networks:
     - network: GitHub
       username: hyunwoo6691
