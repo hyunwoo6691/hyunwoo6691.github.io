@@ -96,9 +96,9 @@
     <div class="pub-links">
       {% if entry.html %}
         {% if entry.html contains '://' %}
-          <a href="{{ entry.html }}">HTML</a>
+          <a href="{{ entry.html }}">Link to paper</a>
         {% else %}
-          <a href="{{ entry.html | prepend: '/assets/html/' | relative_url }}">HTML</a>
+          <a href="{{ entry.html | prepend: '/assets/html/' | relative_url }}">Link to paper</a>
         {% endif %}
       {% endif %}
       {% if entry.pdf %}
