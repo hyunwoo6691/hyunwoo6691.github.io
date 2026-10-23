@@ -137,7 +137,7 @@
               {% if section_title == 'Education' %}
                 {% assign entries = section_entries %}
                 {% include cv/education.liquid %}
-              {% elsif section_title == 'Awards' or section_title == 'Honors and Awards' or section_title == 'Invited Talks' or section_title == 'Leadership' %}
+              {% elsif section_title == 'Awards' or section_title == 'Honors and Awards' or section_title == 'Invited Talks' or section_title == 'Leadership' or section_title == 'Teaching & Mentoring' %}
                 {% assign entries = section_entries %}
                 {% include cv/awards.liquid %}
               {% elsif section_title == 'Publications' %}
